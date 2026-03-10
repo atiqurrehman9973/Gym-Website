@@ -12,6 +12,11 @@ Check out the live website here: [https://gym-website-psi-weld.vercel.app](https
 - **Membership Form:** Integrated user enrollment section.
 - **Speed:** Built with Vite for lightning-fast loading.
 
+To run this project locally, follow these steps:
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ## 🛠️ Tech Stack
 - **Frontend:** React.js
 - **Styling:** Tailwind CSS
@@ -19,7 +24,7 @@ Check out the live website here: [https://gym-website-psi-weld.vercel.app](https
 - **Deployment:** Vercel
 
 ## 📦 Installation & Setup
-To run this project locally, follow these steps:
+
 
 1. Clone the repository:
    ```bash
